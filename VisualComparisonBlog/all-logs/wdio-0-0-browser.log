@@ -1,0 +1,12 @@
+{"level":"SEVERE","message":"https://www.atlantbh.com/ 1533:583 \"Error: EnlighterJS resources not loaded yet!\"","source":"console-api","timestamp":1699120543707}
+{"level":"SEVERE","message":"https://slaask.com/api/init - Failed to load resource: the server responded with a status of 403 ()","source":"network","timestamp":1699120547174}
+{"level":"WARNING","message":"https://cdn.slaask.com/chat.js?v=1667486431 9:139220 \"Chatbox log: 403: Oops, this account is locked. Please contact our team for more details.\"","source":"console-api","timestamp":1699120547174}
+{"level":"SEVERE","message":"https://cdn.slaask.com/chat.js?v=1667486431 9:1774 Uncaught Object: Oops, this account is locked. Please contact our team for more details.","source":"javascript","timestamp":1699120547174}
+{"level":"SEVERE","message":"https://www.atlantbh.com/ 1533:583 \"Error: EnlighterJS resources not loaded yet!\"","source":"console-api","timestamp":1699120558290}
+{"level":"SEVERE","message":"https://slaask.com/api/init - Failed to load resource: the server responded with a status of 403 ()","source":"network","timestamp":1699120558887}
+{"level":"WARNING","message":"https://cdn.slaask.com/chat.js?v=1667486431 9:139220 \"Chatbox log: 403: Oops, this account is locked. Please contact our team for more details.\"","source":"console-api","timestamp":1699120558902}
+{"level":"SEVERE","message":"https://cdn.slaask.com/chat.js?v=1667486431 9:1774 Uncaught Object: Oops, this account is locked. Please contact our team for more details.","source":"javascript","timestamp":1699120558902}
+{"level":"SEVERE","message":"https://www.atlantbh.com/services/ 1075:583 \"Error: EnlighterJS resources not loaded yet!\"","source":"console-api","timestamp":1699120564620}
+{"level":"SEVERE","message":"https://slaask.com/api/init - Failed to load resource: the server responded with a status of 403 ()","source":"network","timestamp":1699120565304}
+{"level":"WARNING","message":"https://cdn.slaask.com/chat.js?v=1667486431 9:139220 \"Chatbox log: 403: Oops, this account is locked. Please contact our team for more details.\"","source":"console-api","timestamp":1699120565306}
+{"level":"SEVERE","message":"https://cdn.slaask.com/chat.js?v=1667486431 9:1774 Uncaught Object: Oops, this account is locked. Please contact our team for more details.","source":"javascript","timestamp":1699120565306}
